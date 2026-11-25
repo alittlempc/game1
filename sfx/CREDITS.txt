@@ -1,0 +1,14 @@
+音效来源（全部可免费商用）
+================================
+
+1. Endless Sky (https://github.com/endless-sky/endless-sky)
+   只选用了该项目 copyright 文件中标注为 public-domain（公有领域，多数来自 freesound.org 的公有领域录音）的音效：
+   爆炸、撞击、武器、引擎、扫描、跃迁等。
+
+2. Kenney (www.kenney.nl) —— Interface Sounds、UI Audio，CC0 1.0
+   通过 https://github.com/Calinou/kenney-interface-sounds 与 https://github.com/Calinou/kenney-ui-audio 获取。
+
+3. Kenney Starter Kits (https://github.com/KenneyNL) —— City Builder / FPS / Racing / 3D Platformer，MIT License
+   Copyright (c) Kenney。放置声、撞击、引擎、碎裂、金币等。
+
+所有音效都经过裁剪、响度统一并转成 MP3。
